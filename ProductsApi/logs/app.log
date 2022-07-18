@@ -1,0 +1,54 @@
+2022-07-18 09:24:53,444 INFO c.i.d.t.P.ProductsApiApplicationTests [main] Starting ProductsApiApplicationTests using Java 11.0.15 on MacBook-Pro-de-Ivan.local with PID 13656 (started by ivanfernandez in /Users/ivanfernandez/Downloads/java/ivan/ProductsApi 2/ProductsApi 2/ProductsApi)
+2022-07-18 09:24:53,453 DEBUG c.i.d.t.P.ProductsApiApplicationTests [main] Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-07-18 09:24:53,454 INFO c.i.d.t.P.ProductsApiApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2022-07-18 09:24:58,866 INFO c.i.d.t.P.ProductsApiApplicationTests [main] Started ProductsApiApplicationTests in 5.814 seconds (JVM running for 8.068)
+2022-07-18 11:00:25,840 INFO c.i.d.t.P.ProductRepositoryTests [main] Starting ProductRepositoryTests using Java 11.0.15 on MacBook-Pro-de-Ivan.local with PID 18913 (started by ivanfernandez in /Users/ivanfernandez/Downloads/java/ivan/ProductsApi 2/ProductsApi/ProductsApi)
+2022-07-18 11:00:25,853 DEBUG c.i.d.t.P.ProductRepositoryTests [main] Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-07-18 11:00:25,854 INFO c.i.d.t.P.ProductRepositoryTests [main] No active profile set, falling back to 1 default profile: "default"
+2022-07-18 11:00:28,453 INFO c.i.d.t.P.ProductRepositoryTests [main] Started ProductRepositoryTests in 3.04 seconds (JVM running for 4.611)
+2022-07-18 11:00:28,795 INFO c.i.d.t.P.ProductsApiApplicationTests [main] Starting ProductsApiApplicationTests using Java 11.0.15 on MacBook-Pro-de-Ivan.local with PID 18913 (started by ivanfernandez in /Users/ivanfernandez/Downloads/java/ivan/ProductsApi 2/ProductsApi/ProductsApi)
+2022-07-18 11:00:28,796 DEBUG c.i.d.t.P.ProductsApiApplicationTests [main] Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-07-18 11:00:28,796 INFO c.i.d.t.P.ProductsApiApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2022-07-18 11:00:31,263 INFO c.i.d.t.P.ProductsApiApplicationTests [main] Started ProductsApiApplicationTests in 2.516 seconds (JVM running for 7.421)
+2022-07-18 11:00:31,488 INFO c.i.d.t.P.s.ProductService [main] Retrieved from DB producList size:1
+2022-07-18 11:05:16,818 INFO c.i.d.t.P.ProductRepositoryTests [main] Starting ProductRepositoryTests using Java 11.0.15 on MacBook-Pro-de-Ivan.local with PID 19484 (started by ivanfernandez in /Users/ivanfernandez/Downloads/java/ivan/ProductsApi 2/ProductsApi/ProductsApi)
+2022-07-18 11:05:16,827 DEBUG c.i.d.t.P.ProductRepositoryTests [main] Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-07-18 11:05:16,827 INFO c.i.d.t.P.ProductRepositoryTests [main] No active profile set, falling back to 1 default profile: "default"
+2022-07-18 11:05:20,268 INFO c.i.d.t.P.ProductRepositoryTests [main] Started ProductRepositoryTests in 3.946 seconds (JVM running for 6.78)
+2022-07-18 11:05:20,659 INFO c.i.d.t.P.ProductsApiApplicationTests [main] Starting ProductsApiApplicationTests using Java 11.0.15 on MacBook-Pro-de-Ivan.local with PID 19484 (started by ivanfernandez in /Users/ivanfernandez/Downloads/java/ivan/ProductsApi 2/ProductsApi/ProductsApi)
+2022-07-18 11:05:20,660 DEBUG c.i.d.t.P.ProductsApiApplicationTests [main] Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-07-18 11:05:20,660 INFO c.i.d.t.P.ProductsApiApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2022-07-18 11:05:23,072 INFO c.i.d.t.P.ProductsApiApplicationTests [main] Started ProductsApiApplicationTests in 2.469 seconds (JVM running for 9.585)
+2022-07-18 11:05:23,388 INFO c.i.d.t.P.s.ProductService [main] Retrieved from DB producList size:1
+2022-07-18 11:09:40,391 INFO c.i.d.t.P.ProductRepositoryTests [main] Starting ProductRepositoryTests using Java 11.0.15 on MacBook-Pro-de-Ivan.local with PID 19986 (started by ivanfernandez in /Users/ivanfernandez/Downloads/java/ivan/ProductsApi 2/ProductsApi/ProductsApi)
+2022-07-18 11:09:40,403 DEBUG c.i.d.t.P.ProductRepositoryTests [main] Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-07-18 11:09:40,404 INFO c.i.d.t.P.ProductRepositoryTests [main] No active profile set, falling back to 1 default profile: "default"
+2022-07-18 11:09:44,002 INFO c.i.d.t.P.ProductRepositoryTests [main] Started ProductRepositoryTests in 4.287 seconds (JVM running for 7.062)
+2022-07-18 11:09:44,425 INFO c.i.d.t.P.ProductsApiApplicationTests [main] Starting ProductsApiApplicationTests using Java 11.0.15 on MacBook-Pro-de-Ivan.local with PID 19986 (started by ivanfernandez in /Users/ivanfernandez/Downloads/java/ivan/ProductsApi 2/ProductsApi/ProductsApi)
+2022-07-18 11:09:44,427 DEBUG c.i.d.t.P.ProductsApiApplicationTests [main] Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-07-18 11:09:44,428 INFO c.i.d.t.P.ProductsApiApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2022-07-18 11:09:47,715 INFO c.i.d.t.P.ProductsApiApplicationTests [main] Started ProductsApiApplicationTests in 3.35 seconds (JVM running for 10.775)
+2022-07-18 11:09:47,940 INFO c.i.d.t.P.s.ProductService [main] Retrieved from DB producList size:1
+2022-07-18 11:13:42,173 INFO c.i.d.t.P.ProductRepositoryTests [main] Starting ProductRepositoryTests using Java 11.0.15 on MacBook-Pro-de-Ivan.local with PID 20414 (started by ivanfernandez in /Users/ivanfernandez/Downloads/java/ivan/ProductsApi 2/ProductsApi/ProductsApi)
+2022-07-18 11:13:42,183 DEBUG c.i.d.t.P.ProductRepositoryTests [main] Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-07-18 11:13:42,184 INFO c.i.d.t.P.ProductRepositoryTests [main] No active profile set, falling back to 1 default profile: "default"
+2022-07-18 11:13:45,628 INFO c.i.d.t.P.ProductRepositoryTests [main] Started ProductRepositoryTests in 3.965 seconds (JVM running for 6.172)
+2022-07-18 11:13:46,077 INFO c.i.d.t.P.ProductsApiApplicationTests [main] Starting ProductsApiApplicationTests using Java 11.0.15 on MacBook-Pro-de-Ivan.local with PID 20414 (started by ivanfernandez in /Users/ivanfernandez/Downloads/java/ivan/ProductsApi 2/ProductsApi/ProductsApi)
+2022-07-18 11:13:46,077 DEBUG c.i.d.t.P.ProductsApiApplicationTests [main] Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-07-18 11:13:46,078 INFO c.i.d.t.P.ProductsApiApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2022-07-18 11:13:49,146 INFO c.i.d.t.P.ProductsApiApplicationTests [main] Started ProductsApiApplicationTests in 3.145 seconds (JVM running for 9.69)
+2022-07-18 11:13:49,414 INFO c.i.d.t.P.s.ProductService [main] Retrieved from DB producList size:1
+2022-07-18 11:14:12,151 INFO c.i.d.t.P.ProductRepositoryTests [main] Starting ProductRepositoryTests using Java 11.0.15 on MacBook-Pro-de-Ivan.local with PID 20483 (started by ivanfernandez in /Users/ivanfernandez/Downloads/java/ivan/ProductsApi 2/ProductsApi/ProductsApi)
+2022-07-18 11:14:12,161 DEBUG c.i.d.t.P.ProductRepositoryTests [main] Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-07-18 11:14:12,161 INFO c.i.d.t.P.ProductRepositoryTests [main] No active profile set, falling back to 1 default profile: "default"
+2022-07-18 11:14:15,332 INFO c.i.d.t.P.ProductRepositoryTests [main] Started ProductRepositoryTests in 3.567 seconds (JVM running for 5.668)
+2022-07-18 11:15:11,814 INFO c.i.d.t.P.ProductRepositoryTests [main] Starting ProductRepositoryTests using Java 11.0.15 on MacBook-Pro-de-Ivan.local with PID 20590 (started by ivanfernandez in /Users/ivanfernandez/Downloads/java/ivan/ProductsApi 2/ProductsApi/ProductsApi)
+2022-07-18 11:15:11,827 DEBUG c.i.d.t.P.ProductRepositoryTests [main] Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-07-18 11:15:11,828 INFO c.i.d.t.P.ProductRepositoryTests [main] No active profile set, falling back to 1 default profile: "default"
+2022-07-18 11:15:14,943 INFO c.i.d.t.P.ProductRepositoryTests [main] Started ProductRepositoryTests in 3.495 seconds (JVM running for 5.273)
+2022-07-18 11:15:24,781 INFO c.i.d.t.P.ProductsApiApplication [main] Starting ProductsApiApplication using Java 11.0.15 on MacBook-Pro-de-Ivan.local with PID 20608 (/Users/ivanfernandez/Downloads/java/ivan/ProductsApi 2/ProductsApi/ProductsApi/target/classes started by ivanfernandez in /Users/ivanfernandez/Downloads/java/ivan/ProductsApi 2/ProductsApi/ProductsApi)
+2022-07-18 11:15:24,789 DEBUG c.i.d.t.P.ProductsApiApplication [main] Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-07-18 11:15:24,790 INFO c.i.d.t.P.ProductsApiApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-07-18 11:15:29,501 INFO c.i.d.t.P.ProductsApiApplication [main] Started ProductsApiApplication in 5.124 seconds (JVM running for 6.331)
+2022-07-18 11:18:03,282 DEBUG c.i.d.t.P.c.ProductsController [http-nio-8000-exec-6] Controller getProductBy--> productService.getProductByIdBrandDate(id,idBrand,dateTime):35455,1,2020-06-16-21.00.00
+2022-07-18 11:18:03,375 INFO c.i.d.t.P.s.ProductService [http-nio-8000-exec-6] Retrieved from DB producList size:2

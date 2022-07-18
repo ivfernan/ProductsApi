@@ -1,0 +1,50 @@
+{
+	"info": {
+		"_postman_id": "fa9457df-a78d-46f0-84ba-025253c9e4ca",
+		"name": "Alten Test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "20301750"
+	},
+	"item": [
+		{
+			"name": "Test 1: petición a las 10:00 del día 14 del producto 35455   para la brand 1 (ZARA)",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Test 2: petición a las 16:00 del día 14 del producto 35455   para la brand 1 (ZARA)",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Test 3: petición a las 21:00 del día 14 del producto 35455   para la brand 1 (ZARA)",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Test 4: petición a las 10:00 del día 15 del producto 35455   para la brand 1 (ZARA)",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Test 5: petición a las 21:00 del día 16 del producto 35455   para la brand 1 (ZARA)",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

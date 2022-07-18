@@ -1,0 +1,15 @@
+com/ifernandez/dev/test/ProductsApi/mapper/ProductMapperImpl.class
+com/ifernandez/dev/test/ProductsApi/configuration/ApiConfig.class
+com/ifernandez/dev/test/ProductsApi/ProductsApiApplication.class
+com/ifernandez/dev/test/ProductsApi/repository/IProductDao.class
+com/ifernandez/dev/test/ProductsApi/mapper/ProductTransformer.class
+com/ifernandez/dev/test/ProductsApi/configuration/SwaggerConfig.class
+com/ifernandez/dev/test/products/api/ProductApi.class
+com/ifernandez/dev/test/ProductsApi/model/Product.class
+com/ifernandez/dev/test/ProductsApi/service/ProductService.class
+com/ifernandez/dev/test/products/model/Product.class
+com/ifernandez/dev/test/ProductsApi/mapper/ProductMapper.class
+com/ifernandez/dev/test/ProductsApi/controller/ProductsController.class
+com/ifernandez/dev/test/ProductsApi/exceptionHandler/exceptionHandlerResponse.class
+com/ifernandez/dev/test/products/api/ApiUtil.class
+com/ifernandez/dev/test/ProductsApi/service/IProductService.class

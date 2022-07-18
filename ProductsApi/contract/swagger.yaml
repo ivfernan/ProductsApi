@@ -1,0 +1,78 @@
+openapi: "3.0.0"
+info:
+  description: "Demo Swagger Specification"
+  version: "1.0.0"
+  title: "Demo Swagger Specification"
+tags:
+  - name: "product"
+    description: "Product tag"
+servers:
+  - url: http://localhost:8000/
+paths:
+  /product/{id}:
+    get:
+      tags:
+        - "product"
+      summary: "Retrieves product by ID, brand and date"
+      operationId: "getProductBy"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "integer"
+            format: "int64"
+        - name: "idBrand"
+          in: "query"
+          required: true
+          schema:
+            type: "integer"
+            format: "int64"
+        - name: "date"
+          in: "query"
+          required: true
+          schema:
+            type: "string"
+            example: "2020-12-31-23.59.59"
+      responses:
+        200:
+          description: "Retrieves product id and its characteristics"
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+components:
+  schemas:
+    Product:
+      type: "object"
+      required:
+        - "id"
+        - "brandId"
+        - "rateId"
+        - "prize"
+        - "currency"
+        - "startDate"
+        - "endDate"
+      properties:
+        id:
+          type: "integer"
+          format: "int64"
+        brandId:
+          type: "integer"
+          format: "int64"
+        rateId:
+          type: "integer"
+          format: "int64"
+        prize:
+          type: "number"
+          format: "double"
+          example: "25.2"
+        currency:
+          type: "string"
+          example: "EUR"
+        startDate:
+          type: "string"
+          example: "2020-12-31-23.59.59"
+        endDate:
+          type: "string"
+          example: "2020-12-31-23.59.59"
